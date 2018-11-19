@@ -18,7 +18,7 @@ They interact in two ways: inhibition or excitation which determines whether a n
 TCLAP is necessary to run the code.
 Gtest is necessary to run the tests.
 
-CMAKE version 3.5 is necessary to compile.
+CMAKE **version 3.5** is necessary to compile.
 
 ### Installing prerequisites
 
@@ -26,7 +26,7 @@ Install Tclap and Gtest libraries in a folder named extra.
 
 ## Running the tests
 
-Open the terminal in the build and type : **make test or ./testNetwork**
+Open the terminal in the build and type : **make test** or **./testNetwork**
 
 ### Tests 
 * Network test :
@@ -34,7 +34,7 @@ Open the terminal in the build and type : **make test or ./testNetwork**
 
 ## Built With
 
-* CMAKE version 3.5 
+* CMAKE **version 3.5** 
 
 
 
