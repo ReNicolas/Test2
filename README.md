@@ -26,7 +26,7 @@ Install Tclap and Gtest libraries in a folder named extra.
 
 ## Running the tests
 
-Open the terminal in the build and type : make test or ./testNetwork
+Open the terminal in the build and type : **make test or ./testNetwork**
 
 ### Tests 
 * Network test :
